@@ -1,0 +1,19 @@
+{
+  "name": "get-that-job",
+  "version": "0.0.1",
+  "description": "Advice on how to better apply for jobs",
+  "main": "index.js",
+  "authors": {
+    "name": "Brian Yamasaki",
+    "email": "brian.yamasaki@gmail.com"
+  },
+  "repository": "/get-that-job",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
