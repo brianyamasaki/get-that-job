@@ -45,6 +45,10 @@ module.exports = {
         text: 'Cover Letters',
         link: '/cover-letter/',
       },
+      {
+        text: 'Interviews',
+        link: '/interviews/'
+      }
     ],
     sidebar: {
       '/guide/': [
@@ -91,6 +95,17 @@ module.exports = {
             'letter-structure',
             'speed-dating',
             'elevator-pitches'
+          ]
+        }
+      ],
+      '/interviews/': [
+        {
+          title: 'Interviews',
+          collapsable: true,
+          children: [
+            '',
+            'elevator-pitches',
+            'speed-dating'
           ]
         }
       ]

@@ -15,7 +15,7 @@ These are responsibilities listed for a project manager in an actual job listing
 - Drafting program materials, templates, documentation, and other assets.
 - Tracking and monitoring progress, defining key performance indicators or success metrics, and reporting on status against program objectives.
 
-Skills that are easy to see from this is that the job requires 
+Skills that are easy to see from this is that the job requires:
 - somebody who can communicate well to various teams as well as upper management
 - can create documents that help in communicating to many stakeholders
 - can manage schedules and progress given to various stakeholder teams

@@ -2,13 +2,13 @@
 
 If you want to get past the Artificial Intelligence and Human Resources gatekeepers, you must address the requirements listed in the job listing. 
 
-In the project management job described in [the example above](/resume/job-requirements.html#an-example-job-ad), every sentence and phrase of your resume must be focused on showing the recruiter:
-- communication
-- managing of schedules
-- creation of documents and visual materials
-- the capability to understand complex ideas and topics
-- leadership, negotiation, teamwork
-- ability to be credible and respected
+In the project management job described in [this example mentioned previously](/resume/job-requirements.html#an-example-job-ad), every sentence and phrase of your resume must be focused on showing the recruiter your ability to:
+- communicate
+- manage schedules
+- create documents and visual materials
+- understand complex ideas and topics
+- show leadership, negotiation, teamwork
+- be credible and respected by your peers
 
 Not only should you showcase those talents listed above, you should use the exact phrases mentioned in the job ad when possible. 
 

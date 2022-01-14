@@ -16,9 +16,10 @@ In these modern, Internet times, people want information about what they need ri
 - Finding the jobs (not yet implemented) 
 - [Making a great resume](/resume)
 - [Making a cover letter](/cover-letter)
-- Interviews (not yet implemented)
+- [Interviews](/interviews)
 - How to choose between offers (not yet implemented)
 - Negotiation (not yet implemented)
+- Confidence in yourself (not yet implemented)
 - First Day of Work (not yet implemented)
 
 ::: details Not Yet Implemented
