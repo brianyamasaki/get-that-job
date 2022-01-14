@@ -34,12 +34,16 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Resume',
+        text: 'Get Ready',
+        link: '/prepare-in-advance/'
+      },
+      {
+        text: 'Resumes',
         link: '/resume/',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: 'Cover Letters',
+        link: '/cover-letter/',
       },
     ],
     sidebar: {
@@ -66,12 +70,27 @@ module.exports = {
       ],
       '/resume/': [
         {
-          title: 'Your Resume',
-          collapsable: false,
+          title: 'Resumes',
+          collapsable: true,
           children: [
             '',
             'what-goes-in',
+            'section-ordering',
             'easy-to-read',
+            'job-requirements',
+            'meet-job-requirements'
+          ]
+        }
+      ],
+      '/cover-letter/': [
+        {
+          title: 'Cover Letters',
+          collapsable: true,
+          children: [
+            '',
+            'letter-structure',
+            'speed-dating',
+            'elevator-pitches'
           ]
         }
       ]
@@ -84,5 +103,10 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
-  ]
+  ],
+  markdown: {
+    extendMarkdown: md => {
+      md.use(require('markdown-it-container'))
+    }
+  }
 }
