@@ -104,8 +104,10 @@ module.exports = {
           collapsable: true,
           children: [
             '',
+            'answer-open-questions',
             'elevator-pitches',
-            'speed-dating'
+            'speed-dating',
+            'bring-portfolio'
           ]
         }
       ]

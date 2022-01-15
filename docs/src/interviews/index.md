@@ -6,6 +6,10 @@ YES. They think you are qualified for the job if you are interviewing. Let that 
 
 Why are you interviewing? You are interviewing because dozens of other people are also qualified. Your job is to sell yourself as the best candidate to hire out of dozens of other candidates.
 
-How can you prepare for your interview?
+## How can you prepare for your interview?
 
-You need to create elevator pitches!
+- Prepare good answers to common questions asked by recruiters
+- Prepare good answers to common questions asked by peers and your hiring manager
+
+
+How can you create a good answer to questions? You need to [create elevator pitches](/common-ideas/elevator-pitches).

@@ -6,6 +6,8 @@ How would you expect to ask and answer questions on a Speed Date (30 minute job 
 
 ## Don't bury the lead. Lead with the lead
 
+Make every sentence of your answer count. Start with an interesting sentence that anybody could understand and imagine. Fill in with details that clarify how they might imagine your first sentence idea. 
+
 How do you answer the question **"Where did you go on vacation?"**
 
 ::: danger Lame answer to "Where did you go on vacation"
@@ -16,4 +18,4 @@ How do you answer the question **"Where did you go on vacation?"**
 We went to Yellowstone, Zion and Yosemite National Parks where we saw geysers, hiked trails and white water rafted. The weather was amazing and we ran into bears a couple times while on the trail. I felt so refreshed from being in the beauty of nature, so I’m ready to start working on my next project. I went on this trip with some friends from high school, Karl, Cindy and Teos.
 :::
 
-Make every sentence of your answer count. Start with an interesting sentence that leads to details that you can fill in later. “Where did you go on vacation?” should be answered with “We went to Yellowstone, Zion and Yosemite National Parks where we saw geysers, hiked trails and white water rafted” instead of “Karl, Cindy, Teos and I met some old friends from high school.” The first example immediately makes the listener want to ask questions about the parks and activities while the second sentence means nothing unless you happen to know Karl, Cindy and Teos. **“Don’t bury the lead. Lead with the lead.”**
+The refined elevator pitch immediately makes the listener want to ask questions about the parks and activities while the lame answer means nothing to the listener unless they happen to know Karl, Cindy and Teos. **“Don’t bury the lead. Lead with the lead.”**
