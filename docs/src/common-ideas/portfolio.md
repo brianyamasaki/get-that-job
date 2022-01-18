@@ -15,6 +15,7 @@ How important is having a portfolio? You can use the portfolio to show off your 
  - **Show people in your network** Sometimes they will suddenly realize they know somebody who needs somebody with your skills and might refer you to a job opening.
  - **Bring the portfolio to the interview** If you bring a portfolio of projects that you've completed, the interviewer is likely to ask you questions about how you created the project and details about how well the project went. These are questions that you know how to answer - much easier than aswering a random question about some contrived problem the interviewer has created to test your cleverness.
 
+
  
 ::: tip
 Press the back button on your browser to return to the previous page

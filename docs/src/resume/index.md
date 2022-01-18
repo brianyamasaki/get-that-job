@@ -8,6 +8,12 @@ Since every job and every employer are looking for slightly different things in 
 
 The resume you give to a potential employer should fit into a single page. Some recruiters simply ignore the second page, so keep it to one page.
 
+## Get Organized
+
+Plan on searching for a job for at least a couple months and applying to at least half a dozen jobs. That means writing a whole bunch of resumes and cover letters and remembering when you're supposed to get contacted.
+
+[Getting organized](/common-ideas/organization) can make your life much easier.
+
 ## Create a Master Resume
 
 Since every resume will be slightly different for whatever job you're applying to, you should keep a master resume that has every job, experience, project and hobby with as much description as you can write. This master resume can span as many pages as you'd like.

@@ -105,9 +105,9 @@ module.exports = {
           children: [
             '',
             'answer-open-questions',
+            'bring-portfolio',
             'elevator-pitches',
             'speed-dating',
-            'bring-portfolio'
           ]
         }
       ]
