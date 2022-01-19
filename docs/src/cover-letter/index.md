@@ -17,6 +17,6 @@ Recruiters read your resume first, because if you don't have the basic qualifica
 - You can refer to items in your resume very briefly
 
 ## Similar to your resume
-- Use keywords to get past the text scanning
-- Make sure your letter [gets to the point quickly and is readable](/common-ideas/recruiters-are-busy)
+- Use keywords to get past the text scanning when submitting through an online jobs website
+- Make sure your letter [gets to the point quickly and is easily readable](/common-ideas/recruiters-are-busy)
 

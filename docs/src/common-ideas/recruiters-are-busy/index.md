@@ -1,9 +1,9 @@
 # Recruiters are Busy
 
-Recruiters get hundreds of items crossing their desks every week. They don't have time to read everything in detail but instead skim items and make quick decisions whether to keep reading or throw it away. 
+Recruiters get hundreds (if not thousands) of items crossing their desks every week. They don't have time to read everything in detail but instead skim items and make quick decisions whether to keep reading or throw it away. 
 
 ::: warning
-They are looking for a reason to throw away your resume
+Recruiters are looking for a reason to throw away your resume. Avoid mistakes that would give them a reason to throw your documents away.
 :::
 
 ## Make it Easy on Them
@@ -13,6 +13,7 @@ You must make all resumes and cover letters easy to read, especially for those o
 - Use readable, high contrast and larger fonts (no smaller than 10 point). 
 - You can shrink the margins to squeeze in more words, but tiny margins are not as pleasing to eye for anyone. If they're looking for an excuse to skip reading your item, lots of text with no margin is a petty, but adequate reason to skip it.
 - Never use hard to read fonts, like script or handwriting fonts, even if it looks interesting or fun.
+- Clearly separate your documents into sections to allow quick skimming. For Resumes, use clearly separated sections for Education, Experience and other skills. For letters, be sure to clearly separate your paragraphs.
 
 
 ## How Recruiters get Judged

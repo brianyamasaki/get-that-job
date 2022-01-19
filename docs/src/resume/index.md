@@ -12,7 +12,7 @@ The resume you give to a potential employer should fit into a single page. Some 
 
 Plan on searching for a job for at least a couple months and applying to at least half a dozen jobs. That means writing a whole bunch of resumes and cover letters and remembering when you're supposed to get contacted.
 
-[Getting organized](/common-ideas/organization) can make your life much easier.
+[Getting organized](/common-ideas/get-organized) can make your life much easier.
 
 ## Create a Master Resume
 

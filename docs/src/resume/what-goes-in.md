@@ -7,11 +7,11 @@ Common Things to Include
 - Useful Skills
 - Hobbies and Clubs
 - Leadership Experiences
-- [A Goal or summary paragraph is optional](/resume/goal-is-optional)
+- [A Goal or summary paragraph is optional](/resume/tips/goal-is-optional.html)
 
 
 # Stuff to Leave Out of a Resume
 
-- [Dates are not recommended](/resume/dates-not-recommended)
-- [Your address is not necessary](/resume/address-not-recommended)
-- [Don't use icons or graphics for important text](/resume/no-icons-or-graphics)
+- [Dates are not recommended](/resume/tips/dates-not-recommended.html)
+- [Your address is not necessary](/resume/tips/address-not-recommended.html)
+- [Don't use icons or graphics for important text](/resume/tips/no-icons-or-graphics.html)
