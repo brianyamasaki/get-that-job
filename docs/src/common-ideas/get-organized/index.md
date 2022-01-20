@@ -31,4 +31,6 @@ It is helpful to keep these facts while you are searching for jobs.
 
 On a personal computer, it makes sense to have a folder called "Job Hunting" to collect all your job hunting information, with sub folders called Master Resume, Master Cover letter and Master Portolio. Also create a folder called "In Process" and "Applied To" under "Job Hunting" (for jobs you are in the process of applying to and those that you've already applied to). And a spreadsheet to monitor which jobs you applied to and when you applied to them.
 
+![folder organization](../../assets/folder-organization.jpg)
+
 ### Examples go here

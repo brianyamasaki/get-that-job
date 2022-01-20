@@ -110,6 +110,22 @@ module.exports = {
             'speed-dating',
           ]
         }
+      ],
+      '/common-ideas/': [
+        {
+          title: 'Details',
+          collapsable: true,
+          children: [
+            'get-organized/index',
+            'networking/index',
+            'being-uncomfortable/index',
+            'elevator-pitches/index',
+            'networking/index',
+            'portfolio/index',
+            'recruiters-are-busy/index',
+            'speed-dating/index'
+          ]
+        }
       ]
     }
   },

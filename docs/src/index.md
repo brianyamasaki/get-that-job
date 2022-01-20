@@ -6,7 +6,7 @@ description: The collected information on this website is here to help you get t
 ---
 
 ## Start From the Beginning
-We are presenting this in a step by step manner ideal for an applicant to show their best face and have the absolute best chance of landing the job. [Start at the beginning](/prepare-in-advance)
+We are presenting this in a step by step manner ideal for an applicant to show their best face and have the absolute best chance of landing the job. [Learn step by step how to Get That Job](/prepare-in-advance)
 
 ## Jump to What You Need Right Now
 In these modern, Internet times, people want information about what they need right now. If you only have a day or two to apply to a job and need tips on submitting your resume itself, by all means just jump to the section on Resumes, especially if the job doesn't allow you to send in a cover letter (pretty common, actually). 
@@ -17,10 +17,10 @@ In these modern, Internet times, people want information about what they need ri
 - [Making a great resume](/resume)
 - [Making a cover letter](/cover-letter)
 - [Interviews](/interviews)
+- Stay Confident (not yet implemented)
 - How to choose between offers (not yet implemented)
 - Negotiation (not yet implemented)
-- Confidence in yourself (not yet implemented)
-- First Day of Work (not yet implemented)
+- First Day of Work Details (not yet implemented)
 
 ::: details Not Yet Implemented
 ## Ask for Help (not yet implemented)
