@@ -12,4 +12,4 @@ Why are you interviewing? You are interviewing because dozens of other people ar
 - Prepare good answers to common questions asked by peers and your hiring manager
 
 
-How can you create a good answer to questions? You need to [create elevator pitches](/common-ideas/elevator-pitches.html).
+How can you create a good answer to questions? You need to [create elevator pitches](/common-ideas/elevator-pitches).

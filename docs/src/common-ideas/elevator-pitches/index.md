@@ -1,3 +1,7 @@
+---
+sidebar: false
+---
+
 # Elevator Pitches
 
 If you haven’t heard of an elevator pitch before, it is a planned out, short answer that describes whatever you want the listener to understand. Originally, the pitch was how you would describe yourself or your company to a person who you met on an elevator, who is only going a few floors with you. You want the pitch to be descriptive, interesting, and memorable.

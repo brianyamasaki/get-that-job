@@ -1,3 +1,7 @@
+---
+sidebar: false
+---
+
 # Get Comfortable with Being Uncomfortable
 
 Selling yourself is uncomfortable. Being turned down for a job is uncomfortable. Being asked hard questions is uncomfortable. Failure is uncomfortable. 

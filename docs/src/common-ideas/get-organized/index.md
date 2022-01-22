@@ -1,3 +1,7 @@
+---
+sidebar: false
+---
+
 # Get Organized
 
 Your job hunting is best achieved by being organized and keeping your materials on hand when you need it. 

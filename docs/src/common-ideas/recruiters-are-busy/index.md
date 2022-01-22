@@ -1,3 +1,7 @@
+---
+sidebar: false
+---
+
 # Recruiters are Busy
 
 Recruiters get hundreds (if not thousands) of items crossing their desks every week. They don't have time to read everything in detail but instead skim items and make quick decisions whether to keep reading or throw it away. 

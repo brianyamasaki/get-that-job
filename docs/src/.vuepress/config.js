@@ -38,16 +38,26 @@ module.exports = {
         link: '/prepare-in-advance/'
       },
       {
-        text: 'Resumes',
-        link: '/resume/',
-      },
-      {
-        text: 'Cover Letters',
-        link: '/cover-letter/',
+        text: 'Job Applications',
+        items: [
+          {
+            text: 'Resumes',
+            link: '/resume/',
+          },
+          {
+            text: 'Cover Letters',
+            link: '/cover-letter/',
+          },
+        ],
+  
       },
       {
         text: 'Interviews',
         link: '/interviews/'
+      },
+      {
+        text: 'About',
+        link: '/about/'
       }
     ],
     sidebar: {
@@ -78,6 +88,7 @@ module.exports = {
           collapsable: true,
           children: [
             '',
+            'master-resume',
             'what-goes-in',
             'section-ordering',
             'easy-to-read',
@@ -110,22 +121,6 @@ module.exports = {
             'speed-dating',
           ]
         }
-      ],
-      '/common-ideas/': [
-        {
-          title: 'Details',
-          collapsable: true,
-          children: [
-            'get-organized/index',
-            'networking/index',
-            'being-uncomfortable/index',
-            'elevator-pitches/index',
-            'networking/index',
-            'portfolio/index',
-            'recruiters-are-busy/index',
-            'speed-dating/index'
-          ]
-        }
       ]
     }
   },
@@ -136,10 +131,5 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
-  ],
-  markdown: {
-    extendMarkdown: md => {
-      md.use(require('markdown-it-container'))
-    }
-  }
+  ]
 }

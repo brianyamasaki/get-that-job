@@ -1,3 +1,7 @@
+---
+sidebar: false
+---
+
 # Speed Dating
 
 Always remember that the recruiter’s job is to hire qualified workers who contributes to the company, stay for an “appropriately long time,” and fits in with the team, division and company’s ethics and culture. Isn’t this basically “speed dating?” When choosing somebody to date, you want somebody qualified (whatever that means to you), contributes to your couple hood (no freeloaders), sticks with you for as long as you want (hopefully you have matching time frames) and fits into your idea of a mate, maybe gets along with your friends and family? Of course, you’d want their dating ethics to match yours.

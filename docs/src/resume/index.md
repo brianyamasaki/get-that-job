@@ -14,9 +14,3 @@ Plan on searching for a job for at least a couple months and applying to at leas
 
 [Getting organized](/common-ideas/get-organized) can make your life much easier.
 
-## Create a Master Resume
-
-Since every resume will be slightly different for whatever job you're applying to, you should keep a master resume that has every job, experience, project and hobby with as much description as you can write. This master resume can span as many pages as you'd like.
-
-This master listing keeps all the information on every item and you'll pick and choose which items to copy and paste into each specialized resume. And you'll edit each item to show off exactly what you want to show your potential employer only including enough to fit on a single page.
-

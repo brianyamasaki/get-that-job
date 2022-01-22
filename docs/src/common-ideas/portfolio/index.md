@@ -1,3 +1,7 @@
+---
+sidebar: false
+---
+
 # Create a Portfolio
 
 At any job you're applying for, it helps to show how well you can do the job. It's easy to start a project, but showing off an actual working project is a different and more relevant to your employer. 
