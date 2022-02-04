@@ -12,5 +12,14 @@ The resume you give to a potential employer should fit into a single page. Some 
 
 Plan on searching for a job for at least a couple months and applying to at least half a dozen jobs. That means writing a whole bunch of resumes and cover letters and remembering when you're supposed to get contacted.
 
-[Getting organized](/common-ideas/get-organized) can make your life much easier.
+::: tip
+[Getting organized](/common-ideas/get-organized) can make your life much easier. Each job you apply to does not mean you should write a complete resume from scratch. There is a lot of Copy and Paste in applying to jobs. Organization makes it easier to find what you need.
+:::
 
+## Good Resumes are not Modest
+
+Many people are brought up to be modest and never brag about themselves or their deeds. While that's a great feature in general life, **modesty is not appropriate while job hunting**. You should never lie while hunting for a job, but be sure to point out what makes you better than others.
+
+::: tip
+The resume is the one place where you should brag about everything that sets you apart from other job applicants
+:::
