@@ -14,7 +14,7 @@ If you have the time to learn the best way to apply for jobs, we are presenting 
 If you only have a day or two to apply to a job and need tips on submitting your resume itself, how to best write a cover letter or anything else we cover in this website, by all means just jump to the section you need. 
 
 - [Start early - before you need a job](/prepare-in-advance)
-- Learn about the process of looking for a job (not yet implemented)
+- [Learn about the process of looking for a job](/hiring-process)
 - Finding the jobs (not yet implemented) 
 - [Making a great resume](/resume)
 - [Making a cover letter](/cover-letter)

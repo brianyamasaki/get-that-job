@@ -21,5 +21,5 @@ Plan on searching for a job for at least a couple months and applying to at leas
 Many people are brought up to be modest and never brag about themselves or their deeds. While that's a great feature in general life, **modesty is not appropriate while job hunting**. You should never lie while hunting for a job, but be sure to point out what makes you better than others.
 
 ::: tip
-The resume is the one place where you should brag about everything that sets you apart from other job applicants
+The resume is the one place where you should brag about everything that sets you apart and above from other job applicants
 :::
