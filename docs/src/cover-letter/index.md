@@ -12,7 +12,7 @@ Of course, it's hard to fit it all into a half page of text. But if you’re cle
 
 ## Cover Letters are not the first thing Recruiters see
 
-Recruiters read your resume first, because if you don't have the basic qualifications, they don't want to waste their time reading your cover letter. This simple fact implies the following:
+**Recruiters read your resume first**, because if you don't have the basic qualifications, they don't want to waste their time reading your cover letter. This simple fact implies the following:
 
 - You can refer to items in your resume very briefly
 

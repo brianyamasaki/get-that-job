@@ -92,6 +92,7 @@ module.exports = {
             'what-goes-in',
             'section-ordering',
             'easy-to-read',
+            'describe-your-experiences',
             'job-requirements',
             'meet-job-requirements'
           ]
