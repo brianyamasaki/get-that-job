@@ -15,3 +15,5 @@ Then why are you interviewing? You are interviewing because dozens of other peop
 
 
 How can you create a good answer to questions? You need to [create elevator pitches](/common-ideas/elevator-pitches).
+
+<Footer />

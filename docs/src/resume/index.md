@@ -23,3 +23,7 @@ Many people are brought up to be modest and never brag about themselves or their
 ::: tip
 The resume is the one place where you should brag about everything that sets you apart and above from other job applicants
 :::
+
+## Never Lie and Be Accurate
+Your resume **will** eventually get sent to the team you want to join, where a manager will decide whether they want to interview you or not, so make sure what’s in your resume is accurate and you can explain any detail in your resume. As an example, do not list COBOL as a computer language you understand if you can’t write a simple program in it. You can say that you understand HTML/CSS even though it was 4 years ago and you haven’t kept up with all the latest changes (of course, be ready to explain that you’re a little out of date).
+

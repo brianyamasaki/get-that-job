@@ -15,6 +15,8 @@ Contact [Brian](mailto:brian.yamasaki+78@gmail.com) with suggestions and bug rep
 
 ## Legalese
 
+
+
 <Footer />
 
 

@@ -17,8 +17,4 @@ Some recommendations for resume sections:
 - Volunteer Experience
 - Hobbies
 
-Only use the sections that show you in your best light. For example, don't have a hobbies section if you don't have hobbies that show skills relevant to this job.
-
-::: tip
-Your resume **will** eventually get sent to the engineering team, where an engineering manager will decide whether they want to interview you or not, so make sure what’s in your resume is accurate and you can explain any detail in your resume. As an example, do not list COBOL as a computer language you understand if you can’t write a simple program in it. You can say that you understand HTML/CSS even though it was 4 years ago and you haven’t kept up with all the latest changes (of course, be ready to explain that you’re a little out of date).
-:::
+Only use the sections that show you in your best light. For example, remove the hobbies section if you don't have hobbies that show skills relevant to this job.

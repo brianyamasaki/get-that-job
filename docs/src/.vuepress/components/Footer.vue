@@ -13,3 +13,11 @@
     }
   }
 </script>
+
+<style scoped>
+  p {
+    margin-top:3em;
+    text-align: center;
+    font-weight: 700;
+  };
+</style>

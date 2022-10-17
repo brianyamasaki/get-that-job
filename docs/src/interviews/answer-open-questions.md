@@ -1,3 +1,4 @@
+
 # Answering Open Ended Questions
 
 You will get overly broad, general questions of which there are no simple answers. **If given an overly broad question, you get to choose how you want to answer these questions**. Your answers should be short yet descriptive and lead in the direction you want them to ask about. In short, answer with an [Elevator Pitch](/common-ideas/elevator-pitches).
@@ -29,3 +30,5 @@ Be prepared by having answers to silly questions like:
 Create an elevator pitch for every common interview question you can think of and practice answering them. Practice on your family and friends when delivering your pitch and ask them if you seem "natural."
 
 It's going to feel very unnatural to be practicing these pitches over and over. If you want to succeed in life, you're going to have to get [comfortable with being uncomfortable](/common-ideas/being-uncomfortable)
+
+<Footer />

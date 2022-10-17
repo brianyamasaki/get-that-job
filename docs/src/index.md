@@ -24,5 +24,3 @@ If you only have a day or two to apply to a job and need tips on submitting your
 - Negotiation (not yet implemented)
 - Things to know before your first day of work (not yet implemented)
 
-
-
